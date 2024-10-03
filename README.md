@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js and working on building my portfolio
 - 📫 How to reach me? Here's my email - niharikaswork@gmail.com or sniharika269@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: There's no fun fact...I think I'm boring
+- ⚡ Fun fact: I like Frontend Development outside of work too!
 
 <!---
 Niharika-work/Niharika-work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
